@@ -5,7 +5,7 @@
 ## Introduction
 This repository contains the code to reproduce our paper M. Zanghieri _et al._, “Event-based Estimation of Hand Forces from High-Density Surface EMG on a Parallel Ultra-Low-Power Microcontroller” [[1]](#1).
 
-It is an extension of our previous work M. Zanghieri _et al._, “Event-based low-power and low-latency regression method for hand kinematics from surface EMG” [[2]](#2).
+It is an extension of our previous work M. Zanghieri _et al._, “Event-based low-power and low-latency regression method for hand kinematics from surface EMG” [[2]](#2) (public [repo](https://github.com/MarcelloZanghieri2/event-based-semg-regression)).
 
 
 
@@ -19,8 +19,8 @@ It is an extension of our previous work M. Zanghieri _et al._, “Event-based lo
 - [Marcello Zanghieri](https://scholar.google.com/citations?hl=en&user=WnIqQj4AAAAJ) - University of Bologna
 - [Pierangelo Maria Rapa](https://scholar.google.com/citations?hl=en&user=TyeTuXQAAAAJ) - University of Bologna
 - [Mattia Orlandi](https://scholar.google.com/citations?hl=en&user=It3fdrEAAAAJ) - University of Bologna
-- [Dr. Elisa Donati](https://scholar.google.com/citations?hl=en&user=03ZYhbIAAAAJ) - Institute of Neuroinformatics (INI) of University of Zürich and ETH Zürich
-- [Prof. Luca Benini](https://scholar.google.com/citations?hl=en&user=8riq3sYAAAAJ) - University of Bologna, ETH Zürich
+- [Dr. Elisa Donati](https://scholar.google.com/citations?hl=en&user=03ZYhbIAAAAJ) - Institute of Neuroinformatics (INI) of University of Zurich and ETH Zurich
+- [Prof. Luca Benini](https://scholar.google.com/citations?hl=en&user=8riq3sYAAAAJ) - University of Bologna, ETH Zurich
 - [Prof. Simone Benatti](https://scholar.google.com/citations?hl=en&user=8Fbi_kwAAAAJ) - University of Bologna, University of Modena and Reggio Emilia
 
 
